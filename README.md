@@ -1,4 +1,6 @@
-# WeatherApp
+<h1 align="center">
+  <img src="https://imgur.com/flkeheM.png">
+</h1>
 
 This template should help get you started developing with Vue 3 in Vite.
 
